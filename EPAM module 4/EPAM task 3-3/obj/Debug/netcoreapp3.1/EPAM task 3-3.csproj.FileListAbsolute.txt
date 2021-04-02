@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\EPAM task 3-3\bin\Debug\netcoreapp3.1\EPAM task 3-3.exe
+C:\Users\User\source\repos\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.AssemblyInfo.cs
+C:\Users\User\source\repos\EPAM task 3-3\bin\Debug\netcoreapp3.1\EPAM task 3-3.deps.json
+C:\Users\User\source\repos\EPAM task 3-3\bin\Debug\netcoreapp3.1\EPAM task 3-3.runtimeconfig.json
+C:\Users\User\source\repos\EPAM task 3-3\bin\Debug\netcoreapp3.1\EPAM task 3-3.runtimeconfig.dev.json
+C:\Users\User\source\repos\EPAM task 3-3\bin\Debug\netcoreapp3.1\EPAM task 3-3.dll
+C:\Users\User\source\repos\EPAM task 3-3\bin\Debug\netcoreapp3.1\EPAM task 3-3.pdb
+C:\Users\User\source\repos\EPAM task 3-3\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\User\source\repos\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.csproj.CopyComplete
+C:\Users\User\source\repos\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.dll
+C:\Users\User\source\repos\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.pdb
+C:\Users\User\source\repos\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.genruntimeconfig.cache
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\bin\Debug\netcoreapp3.1\EPAM task 3-3.exe
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\bin\Debug\netcoreapp3.1\EPAM task 3-3.deps.json
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\bin\Debug\netcoreapp3.1\EPAM task 3-3.runtimeconfig.json
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\bin\Debug\netcoreapp3.1\EPAM task 3-3.runtimeconfig.dev.json
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\bin\Debug\netcoreapp3.1\EPAM task 3-3.dll
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\bin\Debug\netcoreapp3.1\EPAM task 3-3.pdb
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.AssemblyInfo.cs
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.csproj.CopyComplete
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.dll
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.pdb
+C:\Users\User\source\repos\EPAM module 4\EPAM task 3-3\obj\Debug\netcoreapp3.1\EPAM task 3-3.genruntimeconfig.cache

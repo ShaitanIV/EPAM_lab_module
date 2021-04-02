@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPAM task 6-3", "EPAM task 6-3.csproj", "{51920BC5-B9DE-4646-8754-57768F547037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 6-3 test", "..\Task 6-3 test\Task 6-3 test.csproj", "{89FD7A35-E193-4AD7-80B0-E72CD65A1746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51920BC5-B9DE-4646-8754-57768F547037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51920BC5-B9DE-4646-8754-57768F547037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51920BC5-B9DE-4646-8754-57768F547037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51920BC5-B9DE-4646-8754-57768F547037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89FD7A35-E193-4AD7-80B0-E72CD65A1746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FD7A35-E193-4AD7-80B0-E72CD65A1746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FD7A35-E193-4AD7-80B0-E72CD65A1746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FD7A35-E193-4AD7-80B0-E72CD65A1746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D87EDB15-FC25-4F43-B635-2260E00540D8}
+	EndGlobalSection
+EndGlobal

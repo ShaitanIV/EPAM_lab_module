@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EPAM task 1-5/1.0.0": {
+        "runtime": {
+          "EPAM task 1-5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EPAM task 1-5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
